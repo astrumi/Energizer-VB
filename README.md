@@ -1,4 +1,4 @@
-# ENERGIZER: an Excel Plugin
+# ENERGIZER Excel Plugin
 This is a work-in-progress, and this repository is made to show the progress of the application's development. 
 Looking forward to your feedback and reviews!
 
